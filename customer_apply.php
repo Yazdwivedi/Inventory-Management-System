@@ -41,7 +41,7 @@ if(isset($_POST["submit"]))
 	}	
 	 else {
 		$error = $conn->errno . ' ' . $conn->error;
-		echo $error; // 1054 Unknown column 'foo' in 'field list'
+		echo $error;
 	}
 	if(!$check)
 	$counter=1;
