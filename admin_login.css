@@ -1,0 +1,16 @@
+.color{
+  color:white;
+}
+.inner{
+  background-color:rgba(56, 40, 40,0.7);
+  margin-top:130px;
+  border-radius: 6%;
+  margin-left:400px;
+  margin-right: 400px;
+}
+.inside{
+  padding-bottom:50px;
+  padding-left: 180px;
+  padding-right: 180px;
+  padding-top: 50px;
+}
